@@ -1,0 +1,1 @@
+{"name": "express-app", "version": "1.0.0", "scripts": {"start": "node src/index.js"}, "dependencies": {"express": "^4.17.1"}, "devDependencies": {"dotenv": "^10.0.0"}}
